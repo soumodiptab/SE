@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This file can be merged correctly only with the XDE CompareMerge facility. If you are using a text-based merge tool, stop now. Text merge can lead to model corruption. (TWnqiKlzikCd51NELKtrvg) -->
+<RMS:MODEL xmlns:RMS="http://www.rational.com/products/xde"  xmlns:dt="http://www.rational.com/products/xde"  id="ubC6+DvJlkaMH2gMA7iIvA"  unitPolicy="3" >
+<RMS:METAMODEL name="UML 7.0"  id="9Bz1bpZ9HU+itfrtkk+fCA"  semanticVersion="1.5k"  version="7.1.409.1500"  server="1.2.407.200"  format="0.28" />
+<RMS:ROOT>
+<mdl id="4mA6nmBe2k+zOWob6AKx+g" >
+<nam>WorkspaceModel</nam>
+<knd>WORKSPACE</knd>
+<wrk>
+<wrk id="6DdD4DQuYUC7LVo5bbQnaw" >
+<dgv>
+<dgv id="B5qmKUN9lk2Y2SdjtOZ6MQ" >
+<ext>(0,0)</ext>
+<pst>(0,0)</pst>
+<nam>{4BF24C22-0BC4-46C3-BB5A-467C4DEADEAC}</nam>
+<zoo>100</zoo>
+</dgv>
+<dgv id="AuqytD3N8U2NTGnwBMqPkg" >
+<ext>(0,0)</ext>
+<pst>(0,0)</pst>
+<nam>{89737EE7-7DF2-4E93-B576-78BD8348CBDA}</nam>
+<vwx>-5624</vwx>
+<vwy>-6750</vwy>
+<zoo>100</zoo>
+</dgv>
+<dgv id="6eechwOywE22rIPFySH8Xw" >
+<ext>(0,0)</ext>
+<pst>(0,0)</pst>
+<nam>{ABEC3564-E2E3-465A-BD83-9970777134F9}</nam>
+<vwx>-11250</vwx>
+<vwy>-5750</vwy>
+<zoo>100</zoo>
+</dgv>
+<dgv id="D12smVzGKkGJGXym3+J56w" >
+<ext>(0,0)</ext>
+<pst>(0,0)</pst>
+<nam>{68F95857-E876-4AEC-A353-35B08C236662}</nam>
+<vwx>-8571</vwx>
+<vwy>-5900</vwy>
+<zoo>78</zoo>
+</dgv>
+<dgv id="2fTL/JTuHECdu3sIWJ7FNQ" >
+<ext>(0,0)</ext>
+<pst>(0,0)</pst>
+<nam>{D654C6A5-693F-4F83-A019-2B1E07F55D77}</nam>
+<vwx>-31396</vwx>
+<vwy>2866</vwy>
+<wns>Active</wns>
+<zoo>100</zoo>
+</dgv>
+</dgv>
+</wrk>
+</wrk>
+</mdl>
+</RMS:ROOT>
+</RMS:MODEL>
